@@ -28,8 +28,9 @@ public class MouseAction {
 		search.sendKeys("Earring");
 		r.keyPress(KeyEvent.VK_ENTER);
 		r.keyRelease(KeyEvent.VK_ENTER);
-		System.out.println("not valid");
-		
+        System.out.println("not valid");
+        System.out.println("enter the valid input");
+
 		
 
 	}
